@@ -16,7 +16,7 @@ Text Preprocessing:-
 2)Stemming
 3)Stopword Removal
 
-Vectorization & Calculating TF-IDF:-
+Vectorization & Calculating TD-IDF:-
 Vectorization is a technique used to convert textual data to numerical format. TD-IDF basically tells importance of the word in the corpus or dataset
 
 Applying Logistic Regression and Passive Aggressive Classifier
